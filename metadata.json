@@ -1,0 +1,6 @@
+{
+  "name": "VisionIQ Enterprise",
+  "description": "Enterprise AI-powered visual intelligence platform for automated defect detection, anomaly tracking, and operational inspection powered by Google Gemini Vision.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
